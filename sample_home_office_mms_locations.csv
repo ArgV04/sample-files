@@ -1,0 +1,11 @@
+location,type,count
+dresden,homeoffice,80
+dresden,atwork,20
+bonn,homeoffice,90
+bonn,atwork,10
+jena,homeoffice,70
+jena,atwork,30
+leipzig,homeoffice,95
+leipzig,atwork,5
+berlin, homeoffice,100
+berlin,atwork,0
