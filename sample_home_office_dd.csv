@@ -1,3 +1,7 @@
-worklocation,count
-homeoffice,80
-at_work,20
+Continent,Current confirmed cases,Deaths,Recovered,All confirmed cases
+Africa,884,26,84,994
+Asia,31827,4930,80984,117741
+Europe,118290,6120,6659,131069
+North America,20983,282,162,21427
+Oceania,812,7,26,845
+South America,2573,26,16,2615
